@@ -11,7 +11,7 @@ Features to be added:
 5. Discussions
 
 
-PROTOTYPE IN FIGMA: https://www.figma.com/proto/KTapuy2WIFoeCkuTPqJALR/HCI-ASSIGNMENT-1-AKSHAY-KOCHHAR-991414503?page-id=0%3A1&node-id=14%3A163&viewport=241%2C48%2C0.57&scaling=scale-down&starting-point-node-id=2%3A5
+PROTOTYPE IN FIGMA: https://www.figma.com/file/Da9ecetg6rgHkRa7ZtoUYz/HCI-ASSIGNMENT-2-AKSHAY-KOCHHAR-991414503?node-id=0%3A1
 
 
 Home Screen:
